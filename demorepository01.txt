@@ -1,1 +1,2 @@
 demo 2 so i create a one repository in vs and i practice to show through on my git profile for that i need to add then commit then push 
+and i want to change the commit name so did one moification on vs
